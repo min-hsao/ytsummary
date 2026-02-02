@@ -1,0 +1,13 @@
+api_keys.txt
+output/
+reports/
+*.mp4
+*.wav
+*.mp3
+*.json
+*.html
+.DS_Store
+.ropeproject/
+ytsummary_beta.py
+ytsummary_old.py
+ytsummary_old1.py
